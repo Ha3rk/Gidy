@@ -1,0 +1,26 @@
+{
+  "name": "gidy",
+  "version": "1.0.0",
+  "description": "My App Gidy",
+  "main": "index.js",
+  "scripts": {
+    "devStart": " nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\"\""
+  },
+  "keywords": [
+    "\"\""
+  ],
+  "author": "Akeem Ajibare",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.3.3"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.5",
+    "nodemon": "^3.1.0"
+  }
+}
